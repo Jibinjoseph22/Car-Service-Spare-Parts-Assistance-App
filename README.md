@@ -25,8 +25,8 @@ This app offers a **smart and efficient solution** for car owners, making **spar
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/jibinjoseph22/car-service-app.git
-   cd car-service-app
+   git clone https://github.com/jibinjoseph22/Car-Service-Spare-Parts-Assistance-App.git
+   cd Car-Service-Spare-Parts-Assistance-App
    ```
 
 2. **Install dependencies**
