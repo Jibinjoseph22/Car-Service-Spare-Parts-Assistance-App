@@ -1,6 +1,6 @@
 # Car Service & Spare Parts Assistance App 🚗🔧
 
-![Dashboard](https://github.com/user-attachments/assets/4cae2ff7-4b66-471b-ab04-faf787773d29)
+https://github.com/user-attachments/assets/173ffca7-e9f7-44d5-ba30-8156c49eaad6
 
 This **Flutter-based mobile application** simplifies **car servicing and spare parts purchase** by integrating multiple user-friendly features. Built using **Firebase** for real-time data storage and authentication, the app enhances customer experience through seamless communication and self-service options.
 
